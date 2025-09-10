@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-11)
+## Unreleased (2025-09-10)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`82be305`](https://github.com/stdlib-js/stdlib/commit/82be305dfecc75ac71e18dbed841aa6f8022e7be) - **docs:** clean-up TSDoc examples _(by Philipp Burckhardt)_
 -   [`0322739`](https://github.com/stdlib-js/stdlib/commit/0322739ecb60c7442c786477605e09f7be066686) - **test:** add tests _(by Athan Reines)_
 -   [`25ece44`](https://github.com/stdlib-js/stdlib/commit/25ece4459ce722768f12f7726eaace8176ee28ae) - **docs:** fix types _(by Athan Reines)_
 -   [`f9fe489`](https://github.com/stdlib-js/stdlib/commit/f9fe489919cc268600f9f215d6e3fc717455bd51) - **bench:** update import path _(by Athan Reines)_
@@ -39,10 +40,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Muhammad Haris
+-   Philipp Burckhardt
 
 </section>
 
